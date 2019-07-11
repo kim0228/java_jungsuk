@@ -1,4 +1,4 @@
-﻿class ExceptionEx17 {
+class ExceptionEx17 {
 	public static void main(String[] args) 
 	{
 		try  {

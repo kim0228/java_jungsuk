@@ -1,4 +1,4 @@
-﻿class ExceptionEx03 {
+class ExceptionEx03 {
 	public static void main(String args[]) {
 		int number = 100;
 		int result = 0;

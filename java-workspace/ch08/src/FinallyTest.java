@@ -1,4 +1,4 @@
-﻿class FinallyTest {
+class FinallyTest {
 	public static void main(String args[]) {
 		try {
 			startInstall();		// 프로그램 설치에 필요한 준비를 한다.

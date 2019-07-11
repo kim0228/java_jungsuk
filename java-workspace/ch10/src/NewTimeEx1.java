@@ -1,4 +1,4 @@
-﻿import java.time.*;
+import java.time.*;
 import java.time.temporal.*;
 
 class NewTimeEx1 {

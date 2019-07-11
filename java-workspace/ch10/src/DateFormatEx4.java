@@ -1,4 +1,4 @@
-﻿import java.util.*;
+import java.util.*;
 import java.text.*;
 
 class DateFormatEx4 {

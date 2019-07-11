@@ -1,4 +1,4 @@
-﻿import java.text.*;
+import java.text.*;
 
 class MessageFormatEx1 {
 	public static void main(String[] args) {

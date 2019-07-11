@@ -1,4 +1,4 @@
-﻿class ExceptionEx14 {
+class ExceptionEx14 {
 	public static void main(String[] args) {
 		try  {
 				method1();		

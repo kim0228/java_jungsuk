@@ -1,4 +1,4 @@
-﻿import java.util.*; 
+import java.util.*; 
 
 class CalendarEx7 { 
       public static void main(String[] args) { 

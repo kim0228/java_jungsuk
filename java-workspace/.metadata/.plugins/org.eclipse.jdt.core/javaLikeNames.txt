@@ -1,2 +1,2 @@
-﻿aj
+aj
 java

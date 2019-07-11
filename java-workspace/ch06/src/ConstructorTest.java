@@ -1,4 +1,4 @@
-﻿class Data1 {
+class Data1 {
 	int value;
 }
 
