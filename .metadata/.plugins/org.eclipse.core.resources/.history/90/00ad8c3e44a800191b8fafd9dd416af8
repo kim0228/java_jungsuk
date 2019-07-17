@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class Quiz02_06 {
+	public static void main(String[] args) {
+		
+		Scanner s = new Scanner(System.in);
+		int a, b, c, d;
+		
+		System.out.println("첫번째 계산할 값을 입력하세요 == >");
+		a = s.nextInt();
+		
+	}
+}

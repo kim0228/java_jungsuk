@@ -1,0 +1,39 @@
+
+public class Ex03_09 {
+	public static void main(String[] args) {
+//		int a,b,c,d;
+//		
+//		a = 100 + 100;
+//		b = a + 100;
+//		c = a + b - 100;
+//		d = a + b + c;
+//		System.out.printf("a,b,c,d의 값 ==> %d, %d, %d, %d \n", a,b,c,d);
+//		
+//		a = b = c = d = 100;
+//		System.out.printf("a,b,c,d의 값 ==> %d, %d, %d, %d \n", a,b,c,d);
+//		
+//		a = 100;
+//		a = a + 200;
+//		System.out.printf("a의 값 ==> %d \n", a);
+		
+		float a,b,c;
+		a = b = c = 123.45f;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		
+		int d,e,f;
+		d = e = f = (int)123.45f;
+		System.out.println(d);
+		System.out.println(e);
+		System.out.println(f);
+		
+		System.out.println("1" + "2"); // 12
+		System.out.println(true + ""); // true
+		System.out.println('A' + 'B'); // 131--- 'A'와 'B'의 문자코드 값은 각각 65,66이다.
+		System.out.println('1' + 2); // 51--- '1'의 문자코드 값은 49이다.
+		System.out.println('1' + '2'); // 99 
+		System.out.println('J' + "ava"); // Java
+		// System.out.println(true + null); 결과:오류
+	}
+}
