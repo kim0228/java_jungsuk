@@ -1,4 +1,0 @@
-
-public class Problem_01 {
-	Scanner scanner = new Scanner(System.in);
-}

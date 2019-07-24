@@ -1,7 +1,0 @@
-
-public class Quiz02_06 {
-	public static void main(String[] args) {
-		
-		int a, b, c, d;
-	}
-}
