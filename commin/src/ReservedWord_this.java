@@ -17,7 +17,7 @@ public class ReservedWord_this {
 		System.out.println(this.name); // 결과값: commin's blog
 		
 		this.name = name;
-		// 생성자에서 받은 데이터를 클래스의 지역변수로 옮기게 된다.
+		// 생성자에서 받은 데이터를 클래스의 전역변수로 옮기게 된다.
 		System.out.println(this.name); // 결과값: commin
 		
 		
