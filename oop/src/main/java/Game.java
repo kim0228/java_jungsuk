@@ -16,7 +16,7 @@ public class Game {
 		Rule rule = new Rule();
 		CardDeck cardDeck = new CardDeck();
 		
-		List<Player>players = Arrays.asList(new Gamer("사용자1"), new Dealer());
+		List<Player>players = Arrays.asList(new Gamer("사용자1"), new Dealer());//aslist는 배열을 list처럼 .set()의 메소드를 이용하여 편리하게 쓰기 위해서 쓴다.
 		List<Player>initAfterPlayers = initPhase(cardDeck, players);
 		List<Player>playingAfterPlayers = playingPhase(sc,cardDeck,initAfterPlayers);
 		
