@@ -13,7 +13,7 @@ public class ArrayListTest {
 		
 		
 		System.out.println("리스트에 저장된 요소들의 출력");
-		for(int i = 0;i<list.size();i++) {
+		for(int i = 0;i<list.size();i++) { // list는 length가 아닌 size로 크기를 구한다.
 			System.out.println(list.get(i));
 		}
 		
