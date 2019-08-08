@@ -5,7 +5,6 @@ public class Calcurator {
 	public int add(int n1, int n2) {
 		
 		synchronized (this) {
-			// 
 			opCnt++;
 		}
 		return n1 + n2;
