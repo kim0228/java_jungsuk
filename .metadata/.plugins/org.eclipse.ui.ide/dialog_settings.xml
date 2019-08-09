@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\SMART-11\Desktop\Java 프로그래밍\java-notebook\Chat Client"/>
 		<item value="C:\Users\SMART-11\java-workspace\bitCamGenericsTest"/>
 		<item value="E:\dsgw\workspace"/>
 	</list>
@@ -9,6 +10,7 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\SMART-11\Desktop\Java 프로그래밍\java-notebook"/>
 			<item value="C:\Users\SMART-11\java-workspace"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
