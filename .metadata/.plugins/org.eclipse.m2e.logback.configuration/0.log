@@ -2010,3 +2010,1070 @@
 2019-10-02 21:22:41,548 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
 2019-10-02 21:22:41,549 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-10-02 21:22:41,549 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 10:48:37,215 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-04 10:54:29,742 [Worker-5: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 10:54:29,743 [Worker-5: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 10:54:29,745 [Worker-5: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 10:54:29,745 [Worker-5: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 10:56:07,806 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 10:56:07,807 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 10:56:07,808 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 10:56:07,808 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:09:26,127 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:09:26,128 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:09:26,129 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:09:26,130 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:09:35,128 [Worker-23: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:09:35,128 [Worker-23: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:09:35,129 [Worker-23: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:09:35,129 [Worker-23: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:09:56,130 [Worker-24: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:09:56,131 [Worker-24: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:09:56,132 [Worker-24: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:09:56,132 [Worker-24: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:10:12,423 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:10:12,423 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:10:12,425 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:10:12,425 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:10:15,458 [Worker-19: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:10:15,458 [Worker-19: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:10:15,459 [Worker-19: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:10:15,460 [Worker-19: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:10:38,443 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:10:38,443 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:10:38,446 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:10:38,446 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:10:57,801 [Worker-21: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:10:57,801 [Worker-21: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:10:57,802 [Worker-21: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:10:57,802 [Worker-21: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:11:15,310 [Worker-23: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:11:15,310 [Worker-23: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:11:15,311 [Worker-23: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:11:15,311 [Worker-23: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:11:21,732 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:11:21,732 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:11:21,733 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:11:21,733 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:11:30,942 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:11:30,943 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:11:30,944 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:11:30,944 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:15:42,407 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:15:42,407 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:15:42,408 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:15:42,409 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:22:18,866 [Worker-23: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:22:18,866 [Worker-23: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:22:18,867 [Worker-23: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:22:18,868 [Worker-23: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:23:00,642 [Worker-33: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:23:00,642 [Worker-33: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:23:00,643 [Worker-33: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:23:00,643 [Worker-33: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:26:39,784 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:26:39,785 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:26:39,787 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:26:39,787 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:30:33,614 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:30:33,614 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:30:33,615 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:30:33,615 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:44:56,552 [Worker-45: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:44:56,552 [Worker-45: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:44:56,553 [Worker-45: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:44:56,553 [Worker-45: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:47:17,524 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:47:17,524 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:47:17,525 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:47:17,525 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:47:26,614 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:47:26,614 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:47:26,616 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:47:26,616 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:47:33,448 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:47:33,448 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:47:33,449 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:47:33,450 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:47:54,072 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:47:54,072 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:47:54,073 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:47:54,074 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:49:19,538 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:49:19,538 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:49:19,539 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:49:19,539 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:49:22,987 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:49:22,987 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:49:22,989 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:49:22,989 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:49:43,352 [Worker-49: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:49:43,352 [Worker-49: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:49:43,352 [Worker-49: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:49:43,353 [Worker-49: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:50:02,886 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:50:02,886 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:50:02,887 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:50:02,887 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:52:32,680 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:52:32,680 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:52:32,681 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:52:32,681 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:52:34,467 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:52:34,467 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:52:34,468 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:52:34,469 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:52:51,687 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:52:51,687 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:52:51,688 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:52:51,689 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:54:22,963 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:54:22,963 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:54:22,964 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:54:22,964 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:54:55,516 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:54:55,516 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:54:55,517 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:54:55,518 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 11:57:45,349 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:57:45,349 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 11:57:45,351 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 11:57:45,351 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 12:07:25,936 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 12:07:25,936 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 12:07:25,938 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 12:07:25,939 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 12:07:27,945 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 12:07:27,945 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 12:07:27,946 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 12:07:27,946 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:18:50,358 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:18:50,358 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:18:50,359 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:18:50,359 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:18:57,022 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:18:57,022 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:18:57,023 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:18:57,023 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:19:41,782 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:19:41,782 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:19:41,785 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:19:41,785 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:30:48,380 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:30:48,381 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:30:48,382 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:30:48,383 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:31:19,329 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:31:19,329 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:31:19,330 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:31:19,330 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:31:58,936 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:31:58,936 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:31:58,938 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:31:58,938 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:32:05,335 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:32:05,335 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:32:05,337 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:32:05,337 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:41:56,970 [Worker-85: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:41:56,971 [Worker-85: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:41:56,972 [Worker-85: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:41:56,972 [Worker-85: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:42:00,672 [Worker-88: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:42:00,673 [Worker-88: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:42:00,674 [Worker-88: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:42:00,674 [Worker-88: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:42:31,668 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:42:31,669 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:42:31,670 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:42:31,670 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:43:49,378 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:43:49,378 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:43:49,379 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:43:49,379 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:44:08,465 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:44:08,465 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:44:08,466 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:44:08,466 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:44:25,250 [Worker-87: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:44:25,251 [Worker-87: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:44:25,251 [Worker-87: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:44:25,251 [Worker-87: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:44:30,637 [Worker-91: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:44:30,637 [Worker-91: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:44:30,638 [Worker-91: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:44:30,638 [Worker-91: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:44:32,554 [Worker-90: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:44:32,554 [Worker-90: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:44:32,554 [Worker-90: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:44:32,555 [Worker-90: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:44:36,766 [Worker-87: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:44:36,767 [Worker-87: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:44:36,769 [Worker-87: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:44:36,769 [Worker-87: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:44:49,693 [Worker-91: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:44:49,693 [Worker-91: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:44:49,694 [Worker-91: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:44:49,694 [Worker-91: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:46:03,090 [Worker-88: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:46:03,090 [Worker-88: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:46:03,091 [Worker-88: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:46:03,091 [Worker-88: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:57:29,499 [Worker-89: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:57:29,499 [Worker-89: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:57:29,500 [Worker-89: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:57:29,500 [Worker-89: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 13:58:51,095 [Worker-94: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:58:51,096 [Worker-94: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 13:58:51,096 [Worker-94: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 13:58:51,096 [Worker-94: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:00:05,300 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:00:05,300 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:00:05,301 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:00:05,301 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:00:12,371 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:00:12,371 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:00:12,372 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:00:12,373 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:01:16,739 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:01:16,739 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:01:16,740 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:01:16,740 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:01:51,012 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:01:51,012 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:01:51,013 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:01:51,014 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:02:36,071 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:02:36,071 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:02:36,071 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:02:36,072 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:02:42,046 [Worker-97: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:02:42,047 [Worker-97: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:02:42,048 [Worker-97: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:02:42,048 [Worker-97: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:03:49,501 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:03:49,501 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:03:49,502 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:03:49,502 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:05:50,337 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:05:50,338 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:05:50,340 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:05:50,340 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:05:57,429 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:05:57,429 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:05:57,430 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:05:57,431 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:06:20,902 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:06:20,902 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:06:20,903 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:06:20,904 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:06:49,563 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:06:49,563 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:06:49,564 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:06:49,564 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:07:20,330 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:07:20,330 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:07:20,331 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:07:20,331 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:08:32,458 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:08:32,458 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:08:32,459 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:08:32,459 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:08:44,327 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:08:44,327 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:08:44,328 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:08:44,328 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:08:46,725 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:08:46,725 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:08:46,727 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:08:46,727 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:08:56,242 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:08:56,243 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:08:56,244 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:08:56,245 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:09:40,150 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:09:40,150 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:09:40,151 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:09:40,151 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:09:52,369 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:09:52,370 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:09:52,371 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:09:52,371 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:10:53,867 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:10:53,868 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:10:53,868 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:10:53,869 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:12:10,647 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:12:10,647 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:12:10,648 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:12:10,648 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:13:12,066 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:13:12,066 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:13:12,067 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:13:12,067 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:13:31,754 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:13:31,754 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:13:31,755 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:13:31,755 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:14:13,856 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:14:13,857 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:14:13,858 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:14:13,858 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:14:27,127 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:14:27,127 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:14:27,128 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:14:27,128 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:14:52,057 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:14:52,057 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:14:52,058 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:14:52,058 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:14:54,930 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:14:54,930 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:14:54,931 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:14:54,931 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:15:06,374 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:15:06,374 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:15:06,375 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:15:06,375 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:18:02,305 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:18:02,306 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:18:02,306 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:18:02,306 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:18:28,736 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:18:28,736 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:18:28,737 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:18:28,737 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:19:59,947 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:19:59,947 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:19:59,949 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:19:59,949 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:20:04,491 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:20:04,491 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:20:04,492 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:20:04,492 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:20:48,026 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:20:48,027 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:20:48,028 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:20:48,028 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:20:58,148 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:20:58,148 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:20:58,149 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:20:58,149 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:21:12,609 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:21:12,609 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:21:12,610 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:21:12,610 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:30:06,693 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:30:06,693 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:30:06,695 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:30:06,695 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:31:29,359 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:31:29,360 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:31:29,361 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:31:29,361 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:32:23,073 [Worker-112: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:32:23,074 [Worker-112: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:32:23,074 [Worker-112: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:32:23,074 [Worker-112: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:32:54,385 [Worker-114: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:32:54,386 [Worker-114: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:32:54,386 [Worker-114: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:32:54,386 [Worker-114: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:33:50,177 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:33:50,177 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:33:50,178 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:33:50,179 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:47:31,168 [Worker-113: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:47:31,169 [Worker-113: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:47:31,169 [Worker-113: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:47:31,169 [Worker-113: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:48:03,259 [Worker-117: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:48:03,259 [Worker-117: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:48:03,260 [Worker-117: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:48:03,260 [Worker-117: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:48:19,395 [Worker-116: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:48:19,395 [Worker-116: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:48:19,396 [Worker-116: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:48:19,396 [Worker-116: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:48:41,901 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:48:41,902 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:48:41,903 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:48:41,903 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:58:22,397 [Worker-120: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:58:22,397 [Worker-120: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:58:22,398 [Worker-120: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:58:22,398 [Worker-120: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 14:58:42,824 [Worker-121: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:58:42,824 [Worker-121: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 14:58:42,825 [Worker-121: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 14:58:42,825 [Worker-121: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:00:26,095 [Worker-124: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:00:26,096 [Worker-124: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:00:26,097 [Worker-124: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:00:26,097 [Worker-124: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:01:04,167 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:01:04,167 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:01:04,170 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:01:04,170 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:01:24,515 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:01:24,515 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:01:24,515 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:01:24,516 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:01:26,353 [Worker-120: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:01:26,353 [Worker-120: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:01:26,354 [Worker-120: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:01:26,354 [Worker-120: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:01:33,741 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:01:33,742 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:01:33,742 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:01:33,743 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:06:28,493 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:06:28,493 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:06:28,495 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:06:28,496 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:08:36,411 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:08:36,412 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:08:36,413 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:08:36,414 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:10:31,015 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:10:31,015 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:10:31,016 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:10:31,016 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:10:33,789 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:10:33,789 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:10:33,790 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:10:33,790 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:11:08,747 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:11:08,748 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:11:08,749 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:11:08,749 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:12:08,507 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:12:08,507 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:12:08,511 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:12:08,511 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:15:10,917 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:15:10,918 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:15:10,918 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:15:10,919 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:15:33,577 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:15:33,578 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:15:33,578 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:15:33,579 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:16:05,691 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:16:05,691 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:16:05,692 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:16:05,692 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:16:53,206 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:16:53,206 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:16:53,207 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:16:53,207 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:16:59,081 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:16:59,081 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:16:59,082 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:16:59,082 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:17:15,348 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:17:15,348 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:17:15,349 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:17:15,349 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:17:22,067 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:17:22,067 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:17:22,068 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:17:22,068 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:17:32,117 [Worker-133: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:17:32,117 [Worker-133: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:17:32,118 [Worker-133: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:17:32,118 [Worker-133: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:17:37,911 [Worker-131: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:17:37,911 [Worker-131: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:17:37,912 [Worker-131: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:17:37,912 [Worker-131: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:17:43,795 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:17:43,795 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:17:43,796 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:17:43,796 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:17:48,319 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:17:48,320 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:17:48,320 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:17:48,321 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:18:53,441 [Worker-135: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:18:53,441 [Worker-135: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:18:53,442 [Worker-135: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:18:53,442 [Worker-135: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:18:58,525 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:18:58,526 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:18:58,527 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:18:58,527 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:19:23,579 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:19:23,580 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:19:23,580 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:19:23,580 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:19:42,034 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:19:42,034 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:19:42,034 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:19:42,035 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:19:46,807 [Worker-133: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:19:46,807 [Worker-133: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:19:46,807 [Worker-133: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:19:46,808 [Worker-133: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:20:00,889 [Worker-131: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:20:00,890 [Worker-131: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:20:00,890 [Worker-131: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:20:00,890 [Worker-131: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:20:07,242 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:20:07,243 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:20:07,244 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:20:07,245 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:20:29,441 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:20:29,441 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:20:29,441 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:20:29,442 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:21:06,801 [Worker-135: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:21:06,801 [Worker-135: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:21:06,802 [Worker-135: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:21:06,802 [Worker-135: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:21:14,889 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:21:14,889 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:21:14,890 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:21:14,890 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:21:41,972 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:21:41,972 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:21:41,973 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:21:41,973 [Worker-125: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:21:52,621 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:21:52,622 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:21:52,623 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:21:52,623 [Worker-136: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:22:06,127 [Worker-133: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:22:06,127 [Worker-133: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:22:06,127 [Worker-133: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:22:06,128 [Worker-133: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:22:22,158 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:22:22,158 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:22:22,159 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:22:22,159 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:22:38,557 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:22:38,558 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:22:38,559 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:22:38,559 [Worker-130: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:22:44,410 [Worker-135: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:22:44,410 [Worker-135: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:22:44,410 [Worker-135: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:22:44,411 [Worker-135: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:22:55,421 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:22:55,421 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:22:55,421 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:22:55,422 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:23:00,265 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:23:00,266 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:23:00,267 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:23:00,268 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:23:08,781 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:23:08,781 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:23:08,781 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:23:08,782 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:23:33,811 [Worker-131: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:23:33,811 [Worker-131: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:23:33,812 [Worker-131: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:23:33,812 [Worker-131: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:23:44,297 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:23:44,297 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:23:44,298 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:23:44,298 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:24:02,315 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:24:02,315 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:24:02,316 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:24:02,316 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:24:14,693 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:24:14,693 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:24:14,694 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:24:14,694 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:25:57,499 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:25:57,499 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:25:57,500 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:25:57,500 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:26:31,390 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:26:31,390 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:26:31,391 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:26:31,391 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:26:46,695 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:26:46,695 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:26:46,697 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:26:46,697 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:27:03,762 [Worker-137: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:27:03,762 [Worker-137: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:27:03,763 [Worker-137: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:27:03,763 [Worker-137: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:28:06,947 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:28:06,947 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:28:06,948 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:28:06,948 [Worker-134: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:28:10,082 [Worker-138: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:28:10,082 [Worker-138: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:28:10,083 [Worker-138: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:28:10,083 [Worker-138: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:28:41,043 [Worker-136: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:28:41,043 [Worker-136: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:28:41,044 [Worker-136: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:28:41,044 [Worker-136: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:28:53,379 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:28:53,379 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:28:53,381 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:28:53,381 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:29:13,951 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:29:13,951 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:29:13,951 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:29:13,952 [Worker-132: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:29:19,796 [Worker-137: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:29:19,796 [Worker-137: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:29:19,797 [Worker-137: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:29:19,797 [Worker-137: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:33:43,797 [Worker-139: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:33:43,797 [Worker-139: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:33:43,797 [Worker-139: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:33:43,798 [Worker-139: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:33:55,008 [Worker-139: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:33:55,009 [Worker-139: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:33:55,010 [Worker-139: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:33:55,010 [Worker-139: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:36:12,180 [Worker-143: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:36:12,180 [Worker-143: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:36:12,181 [Worker-143: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:36:12,181 [Worker-143: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:36:20,414 [Worker-143: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:36:20,414 [Worker-143: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:36:20,415 [Worker-143: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:36:20,415 [Worker-143: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:36:34,195 [Worker-141: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:36:34,196 [Worker-141: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:36:34,196 [Worker-141: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:36:34,196 [Worker-141: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:36:50,714 [Worker-143: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:36:50,714 [Worker-143: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:36:50,715 [Worker-143: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:36:50,716 [Worker-143: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:37:27,543 [Worker-141: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:37:27,543 [Worker-141: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:37:27,544 [Worker-141: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:37:27,544 [Worker-141: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:41:21,854 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:41:21,855 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:41:21,856 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:41:21,856 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:41:30,705 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:41:30,705 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:41:30,706 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:41:30,707 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:41:47,728 [Worker-147: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:41:47,728 [Worker-147: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:41:47,728 [Worker-147: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:41:47,728 [Worker-147: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:42:03,748 [Worker-151: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:42:03,748 [Worker-151: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:42:03,748 [Worker-151: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:42:03,749 [Worker-151: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:45:43,616 [Worker-152: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:45:43,617 [Worker-152: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:45:43,618 [Worker-152: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:45:43,618 [Worker-152: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:45:49,670 [Worker-155: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:45:49,670 [Worker-155: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:45:49,671 [Worker-155: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:45:49,671 [Worker-155: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:46:25,011 [Worker-152: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:46:25,011 [Worker-152: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:46:25,012 [Worker-152: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:46:25,012 [Worker-152: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:47:01,451 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:47:01,451 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:47:01,451 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:47:01,452 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:47:25,523 [Worker-152: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:47:25,524 [Worker-152: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:47:25,524 [Worker-152: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:47:25,524 [Worker-152: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:47:33,196 [Worker-148: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:47:33,196 [Worker-148: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:47:33,197 [Worker-148: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:47:33,197 [Worker-148: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:47:45,331 [Worker-157: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:47:45,331 [Worker-157: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:47:45,332 [Worker-157: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:47:45,332 [Worker-157: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:50:44,124 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:50:44,125 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:50:44,126 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:50:44,126 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:51:01,165 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:51:01,165 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:51:01,165 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:51:01,165 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:51:09,421 [Worker-157: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:51:09,421 [Worker-157: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:51:09,422 [Worker-157: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:51:09,422 [Worker-157: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:51:51,810 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:51:51,810 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:51:51,811 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:51:51,811 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:52:06,612 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:52:06,612 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:52:06,613 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:52:06,613 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:52:13,366 [Worker-158: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:52:13,366 [Worker-158: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:52:13,367 [Worker-158: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:52:13,368 [Worker-158: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:54:28,241 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:54:28,241 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:54:28,241 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:54:28,242 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:55:49,716 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:55:49,717 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:55:49,717 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:55:49,717 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:55:59,560 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:55:59,561 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:55:59,562 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:55:59,562 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:56:05,189 [Worker-160: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:56:05,189 [Worker-160: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:56:05,190 [Worker-160: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:56:05,190 [Worker-160: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:56:35,049 [Worker-156: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:56:35,049 [Worker-156: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:56:35,049 [Worker-156: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:56:35,049 [Worker-156: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:58:04,791 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:58:04,791 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:58:04,792 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:58:04,792 [Worker-158: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:59:07,084 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:59:07,084 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:59:07,085 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:59:07,085 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:59:21,773 [Worker-156: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:59:21,773 [Worker-156: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:59:21,774 [Worker-156: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:59:21,774 [Worker-156: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 15:59:34,750 [Worker-158: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:59:34,750 [Worker-158: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 15:59:34,751 [Worker-158: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 15:59:34,751 [Worker-158: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:11:19,908 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:11:19,909 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:11:19,909 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:11:19,909 [Worker-154: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:11:29,027 [Worker-163: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:11:29,027 [Worker-163: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:11:29,028 [Worker-163: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:11:29,028 [Worker-163: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:16:45,616 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:16:45,617 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:16:45,617 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:16:45,617 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:17:23,666 [Worker-162: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:17:23,666 [Worker-162: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:17:23,667 [Worker-162: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:17:23,667 [Worker-162: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:17:35,477 [Worker-164: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:17:35,478 [Worker-164: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:17:35,479 [Worker-164: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:17:35,479 [Worker-164: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:18:59,616 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:18:59,616 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:18:59,617 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:18:59,618 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:20:40,346 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:20:40,347 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:20:40,348 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:20:40,348 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:20:56,863 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:20:56,863 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:20:56,863 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:20:56,863 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:21:03,868 [Worker-166: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:21:03,869 [Worker-166: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:21:03,870 [Worker-166: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:21:03,870 [Worker-166: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:21:10,033 [Worker-165: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:21:10,033 [Worker-165: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:21:10,034 [Worker-165: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:21:10,034 [Worker-165: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:23:25,448 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:23:25,449 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:23:25,450 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:23:25,451 [Worker-162: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:23:54,407 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:23:54,407 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:23:54,408 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:23:54,408 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:25:43,034 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-04 16:25:49,554 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kafka:examplekafka:0.0.1-SNAPSHOT @ C:\Users\SMART-11\java-workspace\examplekafka\pom.xml.
+2019-10-04 16:25:49,554 [Worker-13: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kafka:examplekafka:0.0.1-SNAPSHOT @ C:\Users\SMART-11\java-workspace\examplekafka\pom.xml.
+2019-10-04 16:25:52,326 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:25:52,326 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:25:52,872 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kafka:examplekafka:0.0.1-SNAPSHOT @ C:\Users\SMART-11\java-workspace\examplekafka\pom.xml.
+2019-10-04 16:25:52,879 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:25:52,879 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:25:53,133 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Kafka:javaKafka:0.0.1-SNAPSHOT @ C:\Users\SMART-11\java-workspace\javaKafka\pom.xml.
+2019-10-04 16:25:53,849 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:25:53,849 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:25:53,850 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:25:53,851 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:25:53,997 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:25:53,997 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\javaKafka\src\main\resources
+2019-10-04 16:25:53,998 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:25:53,999 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\javaKafka\src\test\resources
+2019-10-04 16:26:10,888 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:26:10,888 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:26:10,890 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:26:10,890 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:29:36,192 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:29:36,193 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:29:36,194 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:29:36,195 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:30:36,314 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:30:36,315 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:30:36,316 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:30:36,316 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:47:14,573 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:47:14,574 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:47:14,576 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:47:14,576 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:48:22,392 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:48:22,392 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:48:22,393 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:48:22,393 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:50:31,984 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:50:31,984 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:50:31,987 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:50:31,987 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:50:49,384 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:50:49,384 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:50:49,385 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:50:49,385 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:51:05,317 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:51:05,318 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:51:05,320 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:51:05,320 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:51:11,395 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:51:11,395 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:51:11,397 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:51:11,398 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:55:12,302 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:55:12,302 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:55:12,304 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:55:12,304 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:55:29,137 [Worker-39: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:55:29,138 [Worker-39: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:55:29,142 [Worker-39: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:55:29,143 [Worker-39: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:55:33,773 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:55:33,774 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:55:33,775 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:55:33,775 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:55:38,979 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:55:38,979 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:55:38,980 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:55:38,980 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:56:04,656 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:56:04,657 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:56:04,658 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:56:04,659 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:57:55,758 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:57:55,758 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:57:55,759 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:57:55,759 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:58:10,461 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:58:10,462 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:58:10,462 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:58:10,463 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:58:17,259 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:58:17,259 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:58:17,260 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:58:17,260 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:58:28,326 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:58:28,327 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:58:28,328 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:58:28,328 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:58:46,529 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:58:46,529 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:58:46,531 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:58:46,531 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:58:53,078 [Worker-41: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:58:53,079 [Worker-41: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:58:53,080 [Worker-41: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:58:53,080 [Worker-41: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:58:57,921 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:58:57,921 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:58:57,922 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:58:57,922 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:59:02,350 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:02,350 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:59:02,351 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:02,352 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:59:07,424 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:07,424 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:59:07,425 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:07,425 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:59:11,077 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:11,077 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:59:11,078 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:11,078 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:59:13,949 [Worker-42: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:13,949 [Worker-42: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:59:13,951 [Worker-42: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:13,951 [Worker-42: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:59:16,672 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:16,672 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:59:16,673 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:16,673 [Worker-36: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:59:19,566 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:19,566 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:59:19,567 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:19,567 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:59:24,046 [Worker-39: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:24,046 [Worker-39: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:59:24,048 [Worker-39: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:24,048 [Worker-39: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 16:59:47,355 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:47,355 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 16:59:47,357 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 16:59:47,357 [Worker-40: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:03:24,193 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:03:24,193 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:03:24,194 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:03:24,194 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:04:00,273 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:04:00,273 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:04:00,275 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:04:00,276 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:04:16,452 [Worker-44: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:04:16,453 [Worker-44: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:04:16,453 [Worker-44: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:04:16,453 [Worker-44: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:09:37,203 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:09:37,204 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:09:37,205 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:09:37,206 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:15:25,757 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:15:25,757 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:15:25,758 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:15:25,758 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:15:53,948 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:15:53,948 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:15:53,948 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:15:53,949 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:16:10,075 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:16:10,075 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:16:10,076 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:16:10,077 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:16:49,182 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:16:49,182 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:16:49,183 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:16:49,183 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:24:35,118 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:24:35,118 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:24:35,119 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:24:35,119 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:25:06,294 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:25:06,294 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:25:06,295 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:25:06,295 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:27:14,374 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-04 17:27:18,972 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:27:18,973 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:27:18,976 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:27:18,976 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:27:19,325 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:27:19,325 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\javaKafka\src\main\resources
+2019-10-04 17:27:19,328 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:27:19,328 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\javaKafka\src\test\resources
+2019-10-04 17:28:10,443 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:28:10,444 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:28:10,445 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:28:10,446 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:28:47,665 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:28:47,666 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:28:47,667 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:28:47,668 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:28:55,539 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:28:55,540 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:28:55,542 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:28:55,542 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:29:04,112 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:29:04,112 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:29:04,113 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:29:04,114 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:30:33,628 [Worker-9: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:30:33,628 [Worker-9: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:30:33,630 [Worker-9: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:30:33,630 [Worker-9: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:31:20,782 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:31:20,782 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:31:20,786 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:31:20,786 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:31:28,778 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:31:28,779 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:31:28,780 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:31:28,780 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:31:39,092 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:31:39,093 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:31:39,094 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:31:39,094 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:32:28,568 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:32:28,568 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:32:28,569 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:32:28,569 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:32:40,656 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:32:40,657 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:32:40,658 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:32:40,658 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:34:24,393 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:34:24,394 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:34:24,395 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:34:24,395 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:36:29,487 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:36:29,487 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:36:29,488 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:36:29,488 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:37:25,832 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:37:25,832 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:37:25,833 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:37:25,834 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:37:51,221 [Worker-2: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:37:51,221 [Worker-2: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:37:51,223 [Worker-2: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:37:51,224 [Worker-2: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:39:25,086 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:39:25,087 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:39:25,088 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:39:25,088 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:40:07,495 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:40:07,496 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:40:07,497 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:40:07,497 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 17:40:12,984 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:40:12,985 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 17:40:12,985 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 17:40:12,986 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 18:29:30,274 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 18:29:30,275 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 18:29:30,276 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 18:29:30,277 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 18:29:37,297 [Worker-26: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 18:29:37,297 [Worker-26: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 18:29:37,298 [Worker-26: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 18:29:37,299 [Worker-26: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 18:30:03,714 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 18:30:03,714 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 18:30:03,715 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 18:30:03,716 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 18:30:10,926 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 18:30:10,926 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 18:30:10,927 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 18:30:10,927 [Worker-30: Launching ProducerExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
+2019-10-04 18:30:27,937 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 18:30:27,937 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\main\resources
+2019-10-04 18:30:27,938 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 18:30:27,939 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMART-11\java-workspace\examplekafka\src\test\resources
