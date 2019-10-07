@@ -24,7 +24,7 @@ public class ConsumerExample {
 		configs.put("key.deserializer", "org.apache.kafka.common.serialization.StringDeserializer"); // key deserializer
 		configs.put("value.deserializer", "org.apache.kafka.common.serialization.StringDeserializer"); // value deserializer
 		KafkaConsumer<String, String> consumer = new KafkaConsumer<String, String>(configs); // consumer 생성
-		consumer.subscribe(Arrays.asList("search")); // topic 설정
+		consumer.subscribe(Arrays.asList("ds-topic")); // topic 설정
 		int i = 0;
 		while (true) { // 계속 loop를 돌면서 producer의 message를 띄운다.
 			ConsumerRecords<String, String> records = consumer.poll(500);
