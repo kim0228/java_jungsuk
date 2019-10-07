@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\SMART-11\eclipse-workspace\TheCute"/>
+		<item value="C:\Users\SMART-11\eclipse-workspace\0527Spring"/>
 		<item value="C:\Users\SMART-11\Desktop\Java 프로그래밍\java-notebook\Chat Client"/>
 		<item value="C:\Users\SMART-11\java-workspace\bitCamGenericsTest"/>
 		<item value="E:\dsgw\workspace"/>
