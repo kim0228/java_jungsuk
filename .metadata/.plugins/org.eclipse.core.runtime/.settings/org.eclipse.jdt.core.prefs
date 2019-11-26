@@ -1,10 +1,10 @@
-JRE_LIB=C\:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar
-JRE_SRC=C\:/Program Files/Java/jdk1.8.0_151/src.zip
+JRE_LIB=C\:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar
+JRE_SRC=C\:/Program Files/Java/jdk1.8.0_181/src.zip
 eclipse.preferences.version=1
 org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=
 org.eclipse.jdt.core.classpathVariable.ASPECTJRT_LIB=C\:/Users/SMART-11/.p2/pool/plugins/org.aspectj.runtime_1.9.2.201902212122.jar
 org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/Users/SMART-11/eclipse/java-2018-12/eclipse/
-org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jre1.8.0_151/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jre1.8.0_181/lib/rt.jar
 org.eclipse.jdt.core.classpathVariable.JRE_SRC=
 org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
 org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/SMART-11/.p2/pool/plugins/org.junit_4.12.0.v201504281640

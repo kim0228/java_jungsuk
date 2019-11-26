@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\SMART-11\Desktop\알고리즘\12. Kruskal\Kruskal"/>
+		<item value="C:\Users\SMART-11\Desktop\알고리즘\Alpha"/>
+		<item value="C:\Users\SMART-11\java-workspace\Exercise06"/>
+		<item value="C:\Users\SMART-11\Desktop\kopoWebProject"/>
 		<item value="C:\Users\SMART-11\eclipse-workspace\TheCute"/>
 		<item value="C:\Users\SMART-11\eclipse-workspace\0527Spring"/>
 		<item value="C:\Users\SMART-11\Desktop\Java 프로그래밍\java-notebook\Chat Client"/>
@@ -12,6 +16,8 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\SMART-11\Desktop\알고리즘\13. Prim\Prim"/>
+			<item value="C:\Users\SMART-11\Desktop\알고리즘\12. Kruskal\Kruskal"/>
 			<item value="C:\Users\SMART-11\Desktop\politech_homework\BFSDFSForArticle"/>
 			<item value="E:\dsgwWeb"/>
 			<item value="C:\Users\SMART-11\Desktop\Java 프로그래밍\java-notebook"/>
